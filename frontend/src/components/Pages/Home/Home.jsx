@@ -15,7 +15,7 @@ export default function Home() {
 
     return <Fragment>
             <section id="products" className="container">
-                <div className="row">
+                <div className="row justify-content-center">
                     {products.map(product => <ProductsView product={product} />)}
                 </div>
             </section>
