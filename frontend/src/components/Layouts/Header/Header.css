@@ -3,10 +3,6 @@ nav {
   padding: 1rem 1rem;
 }
 
-#search_btn {
-  background-color: #ffa0a0;
-}
-
 .input-group {
   width: 90%;
   margin-right: 35%;
@@ -19,11 +15,6 @@ nav {
   font-weight: 700;
   letter-spacing: 2px;
   color: #400808;
-}
-
-#search_field {
-  height: 2.4rem;
-  padding: 1rem;
 }
 
 #cart_count {

@@ -54,8 +54,6 @@ export default function CartItems({ cartItems, setCartItems }) {
             })
     }
 
-
-
     return cartItems.length > 0 ? <Fragment>
         <div class="container container-fluid">
             <h2 class="mt-5">Your Cart: <b>{cartItems.length} items</b></h2>

@@ -6,7 +6,6 @@ export default function Header({cartItems}) {
     return <nav className="navbar navbar-expand-md bg-light shadow-sm px-3 py-2">
   <div className="container-fluid d-flex flex-wrap align-items-center justify-content-between">
 
-    {/* Logo and Brand */}
     <div className="d-flex align-items-center mb-2 mb-md-0">
       <Link to="/" className="d-flex align-items-center text-decoration-none">
         <img
@@ -20,12 +19,10 @@ export default function Header({cartItems}) {
       </Link>
     </div>
 
-    {/* Search Bar */}
     <div className="flex-grow-1 mx-md-4 my-2 my-md-0" >
       <Search />
     </div>
 
-    {/* Cart Icon */}
     <div className="text-end">
       <Link to="/cart" className="text-decoration-none d-flex align-items-center">
         <img

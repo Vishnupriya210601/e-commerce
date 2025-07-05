@@ -1,5 +1,6 @@
 import {useState} from 'react';
 import {useNavigate} from 'react-router-dom';
+import './Search.css';
 
 export default function Search() {
     const [keyword, setKeyword]  = useState("");

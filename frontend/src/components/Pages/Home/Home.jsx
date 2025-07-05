@@ -1,7 +1,6 @@
 import { Fragment, useEffect, useState } from 'react'
 import ProductsView from '../ProductsView/ProductsView';
 import { useSearchParams } from 'react-router-dom';
-import './Home.css';
 
 export default function Home() {
     const [products, setProducts] = useState([]);
@@ -15,7 +14,7 @@ export default function Home() {
 
     return <Fragment>
             <section id="products" className="container">
-                <div className="row">
+                <div className="row justify-content-center">
                     {products.map(product => <ProductsView product={product} />)}
                 </div>
             </section>
