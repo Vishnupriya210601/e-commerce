@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+html,
+body {
+
+  background: linear-gradient(90deg, #ffdce8, #fffafa, #ffd2ba, #fff5f7, #ffe3ec);
+}
+
+p {
+  font-size: 24px;
+}

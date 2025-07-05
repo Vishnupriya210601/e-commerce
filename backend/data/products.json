@@ -1,0 +1,225 @@
+[{
+    "name": "SonicBuds Pro 2",
+    "price": 5000,
+    "description": "Crystal clear sound with deep bass & noise cancellation, sweat proof earbuds for active lifestyles with 24 hrs battery life.",
+    "ratings": 3.9,
+    "images": [
+      {
+        "image": "/images/products/img1.jpg"
+      }
+    ],
+    "category": "Electronics/ Audio Accessories",
+    "seller": "SonicBuds",
+    "stock": 9
+  },
+  {
+    "name": "Chronofit Neo Smartwatch",
+    "price": 6500,
+    "description": "Sleek fitness tracker with heart rate monitor, waterproof design with call and text notifications with 30 hrs of battery.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/img2.jpg"
+      }
+    ],
+    "category": "Electronics/ Wearables",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "Samsung Galaxy S22 Ultra 5G (12GB RAM, 256GB Storage)",
+    "price": 77000,
+    "description": "A powerhouse flagship with a built-in S Pen, 108MP quad camera, and a stunning 6.8 Dynamic AMOLED 2X display. Powered by Snapdragon 8 Gen 1 and a 5000mAh battery for all-day performance and creativity.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/img3.jpg"
+      }
+    ],
+    "category": "Electronics / Mobile Phones",
+    "seller": "Samsung India Electronics Pvt. Ltd.",
+    "stock": 3
+  },
+  {
+    "name": "Apple iPad 11″ (2025, A16 Chip, 256GB, Wi-Fi + 5G)",
+    "price": 60000,
+    "description": "Powered by the blazing-fast A16 chip, this iPad features a stunning 11″ Liquid Retina display and all-day battery life. Ideal for work, creativity, and entertainment with 5G connectivity and Apple Pencil support.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/img4.jpg"
+      }
+    ],
+    "category": "Electronics/ Tablets",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Claura Women’s Fit & Flare Maxi Dress",
+    "price": 2000,
+    "description": "A breezy and elegant floral midi dress with a flattering fit-and-flare silhouette. Crafted in soft rayon with puff sleeves and a cinched waist—perfect for brunches, dates, or festive gatherings.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/img5.jpg"
+      }
+    ],
+    "category": "Fashion/ Women/ Dresses",
+    "seller": "Claura Fashion Co",
+    "stock": 10
+  },
+  {
+    "name": "Lasso® Stylish Women’s Sling Bag with Adjustable Strap",
+    "price": 1200,
+    "description": "A sleek and spacious crossbody sling bag made from premium water-resistant polyester. Features 5 compartments and a 5L capacity—perfect for office, travel, or casual outings.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/img6.jpg"
+      }
+    ],
+    "category": "Women bags/ Accessories",
+    "seller": "Lasso Shoping",
+    "stock": 5
+  },
+  {
+    "name": "Noise ColorFit Ultra 3 Smartwatch (1.96″ AMOLED, BT Calling)",
+    "price": 4500,
+    "description": "A premium smartwatch with a vibrant 1.96″ AMOLED display, Bluetooth calling, and 100+ sports modes. Features SpO2, heart rate, and sleep tracking with up to 7-day battery life.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/img7.jpg"
+      }
+    ],
+    "category": "Electronics / Wearables / Smartwatches",
+    "seller": "Noise Official Store",
+    "stock": 4
+  },
+  {
+    "name": "Apple iPhone 13 PRO (128GB, A18 Chip, 5G)",
+    "price": 89000,
+    "description": "Experience Apple Intelligence with the iPhone 16’s A18 chip, 48MP dual camera, and 6.1″ Super Retina XDR display. Designed for speed, creativity, and privacy with all-day battery life and MagSafe support.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/img8.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Apple",
+    "stock": 5
+  },
+  {
+    "name": "Titan Neo Analog Black Dial Men’s Watch",
+    "price": 3000,
+    "description": "A timeless analog watch with a bold black dial, stainless steel case, and genuine leather strap. Water-resistant and ideal for both office wear and casual outings.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/img9.jpg"
+      }
+    ],
+    "category": "Fashion / Men / Accessories / Watches",
+    "seller": "Titan",
+    "stock": 6
+  },
+  {
+    "name": "Apple MacBook Air (13-inch, M4 Chip, 16GB RAM, 256GB SSD)",
+    "price": 100000,
+    "description": "Supercharged by the Apple M4 chip, this ultra-thin MacBook Air delivers blazing-fast performance, a stunning Liquid Retina display, and all-day battery life. Perfect for students, creators, and professionals on the go.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/img10.jpg"
+      }
+    ],
+    "category": "Electronics > Laptops > Apple MacBooks",
+    "seller": "Apple Authorised Reseller",
+    "stock": 2
+  },
+  {
+    "name": "Highlander Men Slim Fit Mid-Rise Stretchable Jeans",
+    "price": 800,
+    "description": "A modern slim-fit denim crafted from stretchable cotton blend fabric for all-day comfort. Features a clean look with a mid-rise waist and classic 5-pocket styling—perfect for casual and semi-formal wear.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/img11.jpg"
+      }
+    ],
+    "category": "Fashion > Men > Bottomwear > Jeans",
+    "seller": "Amazon",
+    "stock": 3
+  },
+  {
+    "name": "Apple Watch SE (2nd Gen, 2023) [GPS 40mm]",
+    "price": 24000,
+    "description": "Stay connected and active with the Apple Watch SE featuring fitness & sleep tracking, crash detection, heart rate monitoring, and a vibrant Retina display. Lightweight, swimproof, and seamlessly compatible with your Apple ecosystem.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/img12.jpg"
+      }
+    ],
+    "category": "Electronics > Wearables > Smartwatches",
+    "seller": "Apple Authorised Reseller",
+    "stock": 3
+  },
+  {
+    "name": "Milton Aura 1000 Thermosteel Water Bottle",
+    "price": 950,
+    "description": "Keep your drinks hot or cold for up to 24 hours with this ISI-certified, leak-proof stainless steel bottle. Ideal for office, gym, or travel—durable, rust-proof, and easy to carry.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/img13.jpg"
+      }
+    ],
+    "category": "Home & Kitchen > Drinkware > Water Bottles",
+    "seller": "Milton",
+    "stock": 5
+  },
+  {
+    "name": "Treo by Milton Clarion-S Borosilicate Glass Bottle with Silicone Sleeve",
+    "price": 450,
+    "description": "A sleek, BPA-free borosilicate glass bottle with a protective silicone sleeve and leak-proof lid. Ideal for storing water, juices, or detox drinks—durable, stylish, and fridge-friendly.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/img14.jpg"
+      }
+    ],
+    "category": "Home & Kitchen > Drinkware > Glass Bottles",
+    "seller": "Hamilton Housewares Pvt. Ltd.",
+    "stock": 8
+  },
+  {
+    "name": "Puma X-Ray 2 Square Superior Comfort Sneakers",
+    "price": 3500,
+    "description": "A bold, retro-inspired sneaker with breathable mesh, synthetic overlays, and SoftFoam+ cushioning for all-day comfort. Ideal for casual wear, gym sessions, or street-style looks.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/img15.jpg"
+      }
+    ],
+    "category": "Fashion > Men > Footwear > Sneakers",
+    "seller": "Puma",
+    "stock": 6
+  },
+  {
+    "name": "Nike Revolution 7 Men’s Running Shoes",
+    "price": 2500,
+    "description": "Lightweight and responsive, these running shoes feature a breathable mesh upper, soft foam midsole, and durable rubber outsole. Designed for everyday runs and all-day comfort with a sleek, sporty look",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/img16.jpg"
+      }
+    ],
+    "category": "Fashion > Men > Footwear > Running Shoes",
+    "seller": "Nike",
+    "stock": 2
+  }
+  ]

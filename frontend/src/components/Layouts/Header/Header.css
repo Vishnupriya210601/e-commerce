@@ -1,0 +1,36 @@
+nav {
+  background: linear-gradient(to right, #ffb085, #ff5e78, #ffb6c1, #ffdab9, #e91e63, #ffc1a1);
+  padding: 1rem 1rem;
+}
+
+#search_btn {
+  background-color: #ffa0a0;
+}
+
+.input-group {
+  width: 90%;
+  margin-right: 35%;
+}
+
+.cart-heading {
+  padding-left: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #400808;
+}
+
+#search_field {
+  height: 2.4rem;
+  padding: 1rem;
+}
+
+#cart_count {
+  background-color: rgba(255, 141, 179, 0.986);
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  color: black;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
