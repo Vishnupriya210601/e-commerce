@@ -1,50 +1,66 @@
-#cart_count {
-  background-color: rgba(255, 141, 179, 0.986);
-  padding: 0.5rem 0.5rem;
-  border-radius: 0.5rem;
-  color: black;
-  font-weight: bold;
-  font-size: 0.9rem;
+/* Image wrapper ensures consistent height */
+.product-image-wrapper {
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
 }
 
+/* Image fills the wrapper without distortion */
+.product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* or use 'cover' if you prefer cropping */
+}
+
+/* Card layout */
 .card {
   height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-body {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem 0 0 0;
 }
 
 .card-title a {
   color: #2e2e2e;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 .card-title a:hover {
   color: #fa9c23;
-  text-decoration: none;
-}
-
-.card-body {
-  padding-left: 0;
 }
 
 .card-text {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
 }
 
 #view_btn {
   background: linear-gradient(90deg, #6f95ff, #5fadd1, #8f84f0, #63c3ff, #bcd2ff);
   color: rgb(3, 3, 3);
-  font-weight: bolder;
+  font-weight: bold;
+  border: none;
+  margin-top: 1rem;
 }
 
-.card-img-top {
-  width: 200px;
-  height: 150px;
-}
-
-
+/* Ratings */
 .rating-outer {
   display: inline-block;
   position: relative;
   font-family: FontAwesome;
-  color: #ff0000;
+  color: #ccc;
+  font-size: 1rem;
 }
 
 .rating-outer::before {
@@ -62,5 +78,5 @@
 
 .rating-inner::before {
   content: '\f005 \f005 \f005 \f005 \f005';
-  color: #ff2200;
+  color: #ff9900;
 }

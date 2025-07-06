@@ -8,6 +8,7 @@ import { useState } from 'react';
 import {ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import CartItems from './components/Pages/CartItems/CartItems';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   const [cartItems, setCartItems] = useState([]);

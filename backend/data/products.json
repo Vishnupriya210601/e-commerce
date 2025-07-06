@@ -221,5 +221,172 @@
     "category": "Fashion > Men > Footwear > Running Shoes",
     "seller": "Nike",
     "stock": 2
-  }
-  ]
+  },
+  {
+  "name": "L'Oréal Paris Revitalift Crystal Micro-Essence",
+  "price": 799,
+  "description": "Lightweight essence with salicylic acid for refined, radiant skin. Penetrates 10 layers deep for crystal-clear glow.",
+  "ratings": 4.5,
+   "images": [
+      {
+        "image": "/images/products/img17.jpg"
+      }
+    ],
+  "category": "Beauty > Skincare > Essence",
+  "seller": "L'Oréal Paris",
+  "stock": 12
+},
+{
+  "name": "Neutrogena Deep Clean Facial Cleanser",
+  "price": 299,
+  "description": "Dermatologist-recommended cleanser that removes 99% of dirt and oil without over-drying. Suitable for normal to oily skin.",
+  "ratings": 4.6,
+   "images": [
+      {
+        "image": "/images/products/img18.jpg"
+      }
+    ],
+  "category": "Beauty > Skincare > Cleansers",
+  "seller": "Neutrogena",
+  "stock": 20
+},
+{
+  "name": "Maybelline Fit Me Matte + Poreless Foundation",
+  "price": 549,
+  "description": "Oil-free foundation with micro-powders to control shine and blur pores. Ideal for normal to oily skin.",
+  "ratings": 4.4,
+   "images": [
+      {
+        "image": "/images/products/img19.jpg"
+      }
+    ],
+  "category": "Beauty > Makeup > Face",
+  "seller": "Maybelline",
+  "stock": 15
+},
+{
+  "name": "Lakmé Eyeconic Kajal",
+  "price": 210,
+  "description": "Smudge-proof, waterproof kajal that lasts up to 22 hours. Deep black pigment for bold eyes.",
+  "ratings": 4.7,
+   "images": [
+      {
+        "image": "/images/products/img20.jpg"
+      }
+    ],
+  "category": "Beauty > Makeup > Eyes",
+  "seller": "Lakmé",
+  "stock": 30
+},
+{
+  "name": "Colorbar Velvet Matte Lipstick",
+  "price": 325,
+  "description": "Richly pigmented lipstick with a creamy matte finish and vitamin E for hydration.",
+  "ratings": 4.3,
+   "images": [
+      {
+        "image": "/images/products/img21.jpg"
+      }
+    ],
+  "category": "Beauty > Makeup > Lips",
+  "seller": "Colorbar",
+  "stock": 18
+},
+{
+  "name": "Biba Women’s Cotton Printed Kurta",
+  "price": 1499,
+  "description": "Elegant A-line kurta with floral prints and 3/4 sleeves. Made from breathable cotton for all-day comfort.",
+  "ratings": 4.4,
+  "images": [
+      {
+        "image": "/images/products/img22.jpg"
+      }
+    ],
+  "category": "Fashion > Women > Ethnic Wear > Kurtas",
+  "seller": "Biba",
+  "stock": 10
+},
+{
+  "name": "Allen Solly Men’s Slim Fit Shirt",
+  "price": 1299,
+  "description": "Smart casual shirt with a crisp collar and full sleeves. Ideal for office or weekend wear.",
+  "ratings": 4.2,
+   "images": [
+      {
+        "image": "/images/products/img23.jpg"
+      }
+    ],
+  "category": "Fashion > Men > Shirts",
+  "seller": "Allen Solly",
+  "stock": 8
+},
+{
+  "name": "Max Women’s Flared Skirt",
+  "price": 999,
+  "description": "Chic and flowy skirt with ethnic prints and elastic waistband. Perfect for festive occasions.",
+  "ratings": 4.1,
+   "images": [
+      {
+        "image": "/images/products/img24.jpg"
+      }
+    ],
+  "category": "Fashion > Women > Bottomwear > Skirts",
+  "seller": "Max Fashion",
+  "stock": 12
+},
+{
+  "name": "Peter England Men’s Formal Trousers",
+  "price": 1599,
+  "description": "Tailored fit trousers with wrinkle-resistant fabric. Ideal for business meetings and formal events.",
+  "ratings": 4.3,
+  "images": [
+      {
+        "image": "/images/products/img25.jpg"
+      }
+    ],
+  "category": "Fashion > Men > Bottomwear > Trousers",
+  "seller": "Peter England",
+  "stock": 6
+},
+{
+  "name": "Philips HP8100/46 Hair Dryer",
+  "price": 999,
+  "description": "Compact 1000W dryer with 2 flexible speed settings and ThermoProtect technology for gentle drying.",
+  "ratings": 4.5,
+   "images": [
+      {
+        "image": "/images/products/img26.jpg"
+      }
+    ],
+  "category": "Electronics > Personal Care > Hair Dryers",
+  "seller": "Philips",
+  "stock": 14
+},
+{
+  "name": "Havells HS4101 Hair Straightener",
+  "price": 1399,
+  "description": "Ceramic-coated plates with instant heat-up in 45 seconds. Sleek design for smooth styling.",
+  "ratings": 4.4,
+   "images": [
+      {
+        "image": "/images/products/img27.jpg"
+      }
+    ],
+  "category": "Electronics > Personal Care > Hair Straighteners",
+  "seller": "Havells",
+  "stock": 10
+},
+{
+  "name": "Fastrack UV Protected Round Sunglasses",
+  "price": 1199,
+  "description": "Trendy round sunglasses with UV protection and lightweight frame. Ideal for daily wear.",
+  "ratings": 4.2,
+   "images": [
+      {
+        "image": "/images/products/img28.jpg"
+      }
+    ],
+  "category": "Fashion > Accessories > Eyewear",
+  "seller": "Fastrack",
+  "stock": 9
+}]

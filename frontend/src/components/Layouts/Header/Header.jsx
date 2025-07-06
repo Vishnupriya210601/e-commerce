@@ -9,7 +9,7 @@ export default function Header({cartItems}) {
     <div className="d-flex align-items-center mb-2 mb-md-0">
       <Link to="/" className="d-flex align-items-center text-decoration-none">
         <img
-          src="/images/twin_leaves_logo.png"
+          src="/images/logo.png"
           alt="TwinsyCart Logo"
           width="100px"
           height="100px"

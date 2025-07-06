@@ -1,26 +1,35 @@
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import './ProductsView.css';
 
-export default function ProductsView({product}) {
-    console.log(product, 'products')
-    return <div className="product-view col-sm-12 col-md-6 col-lg-3 my-3">
-            <div className="card p-3 rounded">
-                <img
-                className="card-img-top mx-auto"
-                src={product.images[0].image}
-                />
-                <div className="card-body d-flex flex-column">
-                <h5 className="card-title">
-                <Link to={"/product/"+product._id} >{product.name}</Link>
-                </h5>
-                <div className="ratings mt-auto">
-                    <div className="rating-outer">
-                    <div className="rating-inner" style={{width : `${product.ratings/5 * 100}%`}} ></div>
-                    </div>
-                </div>
-                <p className="card-text">INR {product.price}</p>
-                <Link to={"/product/"+product._id} id="view_btn" className="btn btn-block">View Product</Link>
-                </div>
-            </div>
+export default function ProductsView({ product }) {
+  return (
+    <div className="product-view w-100 h-100">
+      <div className="card p-3 rounded h-100 d-flex flex-column">
+        <div className="product-image-wrapper">
+          <img
+            className="product-image"
+            src={product.images[0].image}
+            alt={product.name}
+          />
         </div>
+        <div className="card-body d-flex flex-column justify-content-between">
+          <h5 className="card-title">
+            <Link to={`/product/${product._id}`}>{product.name}</Link>
+          </h5>
+          <div className="ratings mt-auto">
+            <div className="rating-outer">
+              <div
+                className="rating-inner"
+                style={{ width: `${(product.ratings / 5) * 100}%` }}
+              ></div>
+            </div>
+          </div>
+          <p className="card-text">INR {product.price}</p>
+          <Link to={`/product/${product._id}`} id="view_btn" className="btn btn-block">
+            View Product
+          </Link>
+        </div>
+      </div>
+    </div>
+  );
 }
